@@ -5,7 +5,7 @@
 # Hey there👋, Welcome to my Github Profile
 
  
- <p>- <i>An aspiring computer science student inquisitive about the limitless world of technology. Able to perform well in a team. Passionate about coding and equipped with a diverse and promising skill-set, placing a special emphasis on writing good quality code.</i></p>
+ <p><i>An aspiring computer science student inquisitive about the limitless world of technology. Able to perform well in a team. Passionate about coding and equipped with a diverse and promising skill-set, placing a special emphasis on writing good quality code.</i></p>
 
 
 
