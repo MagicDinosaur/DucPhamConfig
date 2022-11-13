@@ -12,12 +12,12 @@
 ## ⚡🙋‍♂️ About Me
 
 </br>
-- 🔧 I’m currently working on ... GSU Attendance System
-- 🥰 Wanna see my projects? Visit Phamvietduc.com
-- 💡 I’m curious about ...Blockchain, DevOps, and System management.
-- 📖 I’m currently learning ...Kubernetes, Natural Language Processing.
-- ❄️ I’m looking to collaborate on ...THE LIMITLESS OF IMAGINATION.
-- 📫 How to reach me ...phamvduc2112@gmail.com.
+- 🔧 I’m currently working on ... GSU Attendance System </br>
+- 🥰 Wanna see my projects? Visit Phamvietduc.com </br>
+- 💡 I’m curious about ...Blockchain, DevOps, and System management. </br>
+- 📖 I’m currently learning ...Kubernetes, Natural Language Processing. </br>
+- ❄️ I’m looking to collaborate on ...THE LIMITLESS OF IMAGINATION. </br>
+- 📫 How to reach me ...phamvduc2112@gmail.com. </br>
 
 <hr>
 
