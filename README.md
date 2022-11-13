@@ -12,9 +12,8 @@
 ## ⚡🙋‍♂️ About Me
 
 </br>
-
 - 🔧 I’m currently working on ... GSU Attendance System
-
+- 🥰 Wanna see my projects? Visit Phamvietduc.com
 - 💡 I’m curious about ...Blockchain, DevOps, and System management.
 - 📖 I’m currently learning ...Kubernetes, Natural Language Processing.
 - ❄️ I’m looking to collaborate on ...THE LIMITLESS OF IMAGINATION.
