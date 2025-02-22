@@ -12,7 +12,7 @@
 ## ⚡🙋‍♂️ About Me
 
 </br>
-- 🔧 I’m currently working with Cox </br>
+- 🔧 I’m currently working with Knapp </br>
 - 🥰 Wanna see my projects? Visit <a href ="https://phamvietduc.com">Phamvietduc.com</a> </br>
 - 💡 I’m curious about ...Blockchain, DevOps, and System management. </br>
 - 📖 I’m currently learning ...Kubernetes, Natural Language Processing. </br>
